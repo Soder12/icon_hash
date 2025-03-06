@@ -4,13 +4,7 @@
 http://ip:port/favicon.ico
 https://ip:port/favicon.ico
  
- 
 2、	放到同目录下1.txt 或单个执行
- 
- 
- 执行命令cmd下 执行命令
- 
-即可得到icon_hash
 
 处理单个图片
 ./icon_hash -i ./favicon.png
@@ -23,4 +17,4 @@ https://ip:port/favicon.ico
 
 处理文件中多个 URL/图片
 ./icon_hash -r 1.txt
-![image](https://github.com/user-attachments/assets/8e1dd165-268e-4c8e-822a-effcc16a82cd)
+
