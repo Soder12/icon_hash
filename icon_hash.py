@@ -76,7 +76,7 @@ def main():
                 for path in paths:
                     path = path.strip()
                     # 简单判断是否是图片（可根据需要调整）
-                    if path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp')):
+                    if path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp','.ico')):
                         image_hash = get_image_hash(path)
                         if image_hash is not None:
                             print(f"Image hash for {path}: {image_hash}")
