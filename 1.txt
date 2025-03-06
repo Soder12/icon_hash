@@ -1,0 +1,7 @@
+http://ip:port//favicon.ico
+http://ip:port//favicon.ico
+http://ip:port//favicon.ico
+favicon.png
+2.png
+3.png
+http://ip:port//favicon.ico
