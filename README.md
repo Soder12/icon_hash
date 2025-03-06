@@ -1,1 +1,2 @@
 # icon_hash
+一个计算fofa_icon_hash的python小工具
